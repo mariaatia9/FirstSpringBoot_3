@@ -1,0 +1,7 @@
+com\ibb\model\Address.class
+com\ibb\demo\MyComponent.class
+com\ibb\demo\MyService.class
+com\ibb\demo\FirstSpringBootApplication.class
+com\ibb\demo\HelloWorldController.class
+com\ibb\model\Person.class
+com\ibb\demo\FirstMvcController.class
